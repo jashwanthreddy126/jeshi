@@ -1,5 +1,5 @@
 ch=str(raw_input())
-if((ch>='a' and ch<= 'z') or (ch>='A' and ch<='Z')):
+if((ch>='b' and ch<= 'y') or (ch>='B' and ch<='Y')):
 	print("Alphabet")
 else:
 	print("No")
